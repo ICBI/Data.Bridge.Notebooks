@@ -2,7 +2,7 @@
 
 ## About
 * Webpage - https://www.aim-ahead.net/data-and-research-core/aadbaccess/
-* GUMC language and page to be added.
+* GUMC language was added. Need to make a page for us.
 
 ## Task 1
 Provide synthetic versions of some data sets starting with
