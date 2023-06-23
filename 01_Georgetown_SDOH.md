@@ -1,11 +1,9 @@
-# Summary of the Georgetown-SDOH Database
+# Summary of the Georgetown-SDOH Datawarehouse
 
 ## What is it ?
 As part of the AIM AHEAD Data bridge initiative, the Georgetown-ICBI Team has downloaded, formatted and stored many of these datasets in the Google’s cloud based datawarehouse system BigQuery.
 
-## Data sources used to populate the Georgetown-SDOH Database with a short description
-
-====> Some of the short descriptions need to be better summarized
+## Data sources used to populate the Georgetown-SDOH Datawarehouse with a short description
 
 
 | Name of BigQuery table                                         | Short description                                                        | Source                                                                                                   | Link                                                                                                              |
@@ -34,17 +32,17 @@ A summary of the attributes (i.e. variables) and its data type was also made. De
 
 Detialed summaries of how each data source are provided in this mult-tab excel sheet [HERE](https://github.com/ICBI/Data.Bridge.Notebooks/blob/main/ICBI%20Social%20Determinants%20Public%20Data%20Sources.xlsx)
 
-## How to access the Georgetown-SDOH database
+## How to access the Georgetown-SDOH datawarehouse
 The information summarized in the Georgetown-SDOH database is accessible through multiple ways. Detailed tutorials are provided for each option
-* Access using python scripts that can directly query the Georgetown-SDOH Bigquery database 
+* Access using python scripts that can directly query the Georgetown-SDOH Bigquery datawarehouse 
 (_easiest and most popular, hence highly recommended)_
 * Access using R script 
-* Directly querying the Georgetown-SDOH Bigquery database using SQL-like commands 
+* Directly querying the Georgetown-SDOH Bigquery datawarehouse using SQL-like commands 
 _(read-only access offered on a case-by-case basis to a limited audience with experience in programming)_
 * Access using BigQuery APIs _(future)_
 
 ## Tutorials
-* Tutorial 1: How to extract information from the Georgetown-SDOH Bigquery database using python scripts
+* Tutorial 1: How to extract information from the Georgetown-SDOH Bigquery datawarehouse using python scripts
 * Tutorial 2: 
 
 
