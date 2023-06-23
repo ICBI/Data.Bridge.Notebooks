@@ -1,28 +1,22 @@
 # Data Bridge Notebooks
+* **Authors:** Peter McGarvey, Adil Alaoui, Yili Zhang, Jia Li Dong, Krithika Bhuvaneshwar, Camelia Bencheqroun 
+* **Affiliation:** Georgetown-Innovation Center for Biomedical Informatics (ICBI), Georgetown University Medical Center 
 
-## About
-* Webpage - https://www.aim-ahead.net/data-and-research-core/aadbaccess/
-* GUMC language was added. Need to make a page for us.
+## About AIM-AHEAD Data Bridge project
+To advance the science of reducing racial disparities and ensuring that AI/ML solutions in healthcare are designed to promote health equity, a multidisciplinary, collaborative consortium, AIM-AHEAD Data Bridge (AADB) has been formed to advance the access and use of diverse data by researchers and communities currently underrepresented in the development of AI/ML models and Predictive Analytics, and to enhance the capabilities of this emerging technology, beginning with rich and diverse sources of Electronic Health Records (EHR) data to address health disparities and inequities. Read more here: https://www.aim-ahead.net/data-and-research-core/aadbaccess/
 
-## Task 1
-Provide synthetic versions of some data sets starting with
-https://www.aim-ahead.net/data-and-research-core/aadbaccess/cardiometabolic-correlates-
-and-maternal-health-data/
+## Task 1 - Setting up the Georgetown-SDOH database
 
-* Synthetic data - still waiting on approval from MedStar to get a copy of the data for us to work on. This Maternal data set has been used to develop a commercial
-ML tool to predict heart disease. That tool is proprietary but we can look into seeing if we can develop a method and see if it works on syn data. Or ask the company to test their tool on the synth data
+### Background and goals
+The Social Determinants of Health (SDoH) highlights environmental and non-medical factors, such as economic and social conditions, that influence the health status of an individual or a group; to help measure the health disparities across the nation, and better understand the factors affect health outcomes and risks. Social Determinants of Health data can be found mostly in Census Bureau databases and other public databases <<Add CITATION>>
 
-* When available will make Synthetic set available to AA for training etc.
-How? TBD either via a GU website or MedStar. Would be good to see what we can do with it and publish.ta
+As part of the AIM AHEAD Data bridge initiative, the Georgetown-ICBI Team has downloaded, formatted and stored many of these datasets in the Google’s cloud database system BigQuery database format called the **_Georgetown-SDOH database_**.
 
-## Task 2
-Provide SDOH index data that Ji Li has created and documented already. The SDOH is available via google big query APIs
+A short summary of the public databases is shown this table below, and a detailed summary can be found in the SDOH file linked here << ADD LINK >>
 
-* make available to AA. (how?)
 
-* Need to discuss details of this, how to access, need documentation the SDOH data and of the APIs with examples.
 
-* Need Jupyter notebook examples in python and R eventually.
 
-## Task 3
-Genomics daa
+
+
+
