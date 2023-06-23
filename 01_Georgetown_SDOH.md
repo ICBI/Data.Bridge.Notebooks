@@ -43,6 +43,7 @@ _(read-only access offered on a case-by-case basis to a limited audience with ex
 
 ## Tutorials
 * Tutorial 1: How to extract information from the Georgetown-SDOH Bigquery datawarehouse using python scripts
+  https://github.com/ICBI/Data.Bridge.Notebooks/blob/main/Tutorial1_BigQueryPythonGuide.ipynb
 * Tutorial 2: 
 
 
