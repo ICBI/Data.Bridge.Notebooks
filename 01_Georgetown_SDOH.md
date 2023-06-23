@@ -36,10 +36,10 @@ Detialed summaries of how each data source are provided in this mult-tab excel s
 
 ## How to access the Georgetown-SDOH database
 The information summarized in the Georgetown-SDOH database is accessible through multiple ways. Detailed tutorials are provided for each option
-* Access using python scripts that can directly query the Georgetown-SDOH Bigquery database (easiest and most popular, hence highly recommended)
-* Directly querying the Georgetown-SDOH Bigquery database using SQL-like commands (read-only access offered on a case-by-case basis to a limited audience with experience in programming)
-* Access using R script (future)
-* Access using BigQuery APIs (future)
+* Access using python scripts that can directly query the Georgetown-SDOH Bigquery database (_easiest and most popular, hence highly recommended)_
+* Directly querying the Georgetown-SDOH Bigquery database using SQL-like commands _(read-only access offered on a case-by-case basis to a limited audience with experience in programming)_
+* Access using R script _(future)_
+* Access using BigQuery APIs _(future)_
 
 ## Tutorials
 * Tutorial 1: How to extract information from the Georgetown-SDOH Bigquery database using python scripts
