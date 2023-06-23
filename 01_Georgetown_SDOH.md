@@ -32,7 +32,7 @@ As part of the AIM AHEAD Data bridge initiative, the Georgetown-ICBI Team has do
 Detailed metadata about each data source was first noted such as, information about the number of records, date of last upate, type of access and data formats. 
 A summary of the attributes (i.e. variables) and its data type was also made. Depending on the information desired, multiple datasources were merged based on a common attribute such as the "Geographic Entity ID" or GEOID
 
-Detialed summaries of how each data source are provided in this mult-tab excel sheet: ====> ADD FILE HERE 
+Detialed summaries of how each data source are provided in this mult-tab excel sheet [HERE](https://github.com/ICBI/Data.Bridge.Notebooks/blob/main/ICBI%20Social%20Determinants%20Public%20Data%20Sources.xlsx)
 
 ## How to access the Georgetown-SDOH database
 The information summarized in the Georgetown-SDOH database is accessible through multiple ways. Detailed tutorials are provided for each option
