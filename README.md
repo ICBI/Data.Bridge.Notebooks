@@ -14,6 +14,9 @@ As part of the AIM AHEAD Data bridge initiative, the Georgetown-ICBI Team has do
 
 A summary of the public databases is can be found in the SDOH file linked here: **[Georgetown-SDOH.md](https://github.com/ICBI/Data.Bridge.Notebooks/blob/main/01_Georgetown_SDOH.md)**
 
+## Goal 2 - Synthetic datasets
+Georgetown-ICBI Provide synthetic versions of some data sets such as https://www.aim-ahead.net/data-and-research-core/aadbaccess/cardiometabolic-correlates- and-maternal-health-data/. More information on this coming soon..
+
 
 
 
