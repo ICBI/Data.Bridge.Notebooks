@@ -33,3 +33,18 @@ Detailed metadata about each data source was first noted such as, information ab
 A summary of the attributes (i.e. variables) and its data type was also made. Depending on the information desired, multiple datasources were merged based on a common attribute such as the "Geographic Entity ID" or GEOID
 
 Detialed summaries of how each data source are provided in this mult-tab excel sheet: ====> ADD FILE HERE 
+
+## How to access the Georgetown-SDOH database
+The information summarized in the Georgetown-SDOH database is accessible through multiple ways
+(a) Access using python scripts that can directly query the Georgetown-SDOH Bigquery database (easiest and most popular, hence highly recommended)
+(b) Directly querying the Georgetown-SDOH Bigquery database using SQL-like commands (read-only access offered on a case-by-case basis to a limited audience with experience in programming)
+(c) Access using R script (future)
+(d) Access using BigQuery APIs (future)
+
+Detailed tutorials are provided for each option
+
+## Tutorials
+* Tutorial 1: How to extract information from the Georgetown-SDOH Bigquery database using python scripts
+* Tutorial 2: 
+
+
