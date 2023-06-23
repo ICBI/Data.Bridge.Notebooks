@@ -5,7 +5,7 @@
 ## About the AIM-AHEAD Data Bridge project
 To advance the science of reducing racial disparities and ensuring that AI/ML solutions in healthcare are designed to promote health equity, a multidisciplinary, collaborative consortium, AIM-AHEAD Data Bridge (AADB) has been formed to advance the access and use of diverse data by researchers and communities currently underrepresented in the development of AI/ML models and Predictive Analytics, and to enhance the capabilities of this emerging technology, beginning with rich and diverse sources of Electronic Health Records (EHR) data to address health disparities and inequities. Read more here: https://www.aim-ahead.net/data-and-research-core/aadbaccess/
 
-## Task 1 - Setting up the Georgetown-SDOH database
+## Goal 1 - Setting up the Georgetown-SDOH database
 
 ### Background and goals
 The Social Determinants of Health (SDoH) highlights environmental and non-medical factors, such as economic and social conditions, that influence the health status of an individual or a group; to help measure the health disparities across the nation, and better understand the factors affect health outcomes and risks. Social Determinants of Health data can be found mostly in Census Bureau databases and other public databases ===>> NEEDS CITATION
