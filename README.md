@@ -12,7 +12,8 @@ The Social Determinants of Health (SDoH) highlights environmental and non-medica
 
 As part of the AIM AHEAD Data bridge initiative, the Georgetown-ICBI Team has downloaded, formatted and stored many of these datasets in the Google’s cloud database system BigQuery database format called the **_Georgetown-SDOH database_**
 
-A short summary of the public databases is shown this listed below, and a detailed summary can be found in the SDOH file linked here ===>> ADD HYPERLINK
+A short summary of the public databases is shown this listed below, and a detailed summary can be found in the SDOH file linked here: **[Georgetown-SDOH.md](https://github.com/ICBI/Data.Bridge.Notebooks/blob/main/01_Georgetown_SDOH.md)**
+
 
 
 
