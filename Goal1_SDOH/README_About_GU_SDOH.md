@@ -3,6 +3,8 @@
 ## What is it ?
 As part of the AIM AHEAD Data bridge initiative, the Georgetown-ICBI Team has downloaded, formatted and stored many of these datasets in the Google’s cloud based datawarehouse system BigQuery.
 
+<img src="https://github.com/ICBI/Data.Bridge.Notebooks/blob/main/AAlogo1.jpg" width="300" height="250">
+
 ## Data sources used to populate the Georgetown-SDOH Datawarehouse with a short description
 
 
@@ -47,4 +49,4 @@ _(read-only access offered on a case-by-case basis to a limited audience with ex
 * Tutorial 2: Accessing the Georgetown SDOH Bigquery Datawarehouse through an API
   https://github.com/ICBI/Data.Bridge.Notebooks/blob/main/Goal1_SDOH/Tutorial2_BigQueryAPI.ipynb
 
-
+<img src="https://github.com/ICBI/Data.Bridge.Notebooks/blob/main/HIDSLOGO.AA1.jpg" width="400" height="70">
