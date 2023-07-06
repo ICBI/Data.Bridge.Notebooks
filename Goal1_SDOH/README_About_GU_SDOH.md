@@ -41,9 +41,10 @@ The information summarized in the Georgetown-SDOH database is accessible through
 _(read-only access offered on a case-by-case basis to a limited audience with experience in programming)_
 * Access using BigQuery APIs _(future)_
 
-## Tutorials
+## Tutorials for advanced users
 * Tutorial 1: How to extract information from the Georgetown-SDOH Bigquery datawarehouse using python scripts
   https://github.com/ICBI/Data.Bridge.Notebooks/blob/main/Goal1_SDOH/Tutorial1_BigQueryPythonGuide.ipynb
-* Tutorial 2: 
+* Tutorial 2: Accessing the Georgetown SDOH Bigquery Datawarehouse through an API
+  https://github.com/ICBI/Data.Bridge.Notebooks/blob/main/Goal1_SDOH/Tutorial2_BigQueryAPI.ipynb
 
 
