@@ -5,6 +5,8 @@
 ## About the AIM-AHEAD Data Bridge project
 To advance the science of reducing racial disparities and ensuring that AI/ML solutions in healthcare are designed to promote health equity, a multidisciplinary, collaborative consortium, AIM-AHEAD Data Bridge (AADB) has been formed to advance the access and use of diverse data by researchers and communities currently underrepresented in the development of AI/ML models and Predictive Analytics, and to enhance the capabilities of this emerging technology, beginning with rich and diverse sources of Electronic Health Records (EHR) data to address health disparities and inequities. Read more here: https://www.aim-ahead.net/data-and-research-core/aadbaccess/
 
+<img src="https://github.com/ICBI/Data.Bridge.Notebooks/blob/main/AAlogo1.jpg" width="300" height="250">
+
 ## Goal 1 - Setting up the Georgetown-SDOH datawarehouse
 
 ### Background and goals
@@ -18,7 +20,7 @@ For more information about the Georgetown-SDOH data warehouse and tutorials see 
 ## Goal 2 - Synthetic datasets
 Georgetown-ICBI Provide synthetic versions of some data sets such as https://www.aim-ahead.net/data-and-research-core/aadbaccess/cardiometabolic-correlates- and-maternal-health-data/. More information on this coming soon..
 
-
+<img src="https://github.com/ICBI/Data.Bridge.Notebooks/blob/main/HIDSLOGO.AA1.jpg" width="400" height="70">
 
 
 
