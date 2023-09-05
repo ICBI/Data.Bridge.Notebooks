@@ -14,8 +14,16 @@ The Social Determinants of Health (SDoH) highlights environmental and non-medica
 
 As part of the AIM AHEAD Data bridge initiative, the Georgetown-ICBI Team has downloaded, formatted and stored many of these datasets in the Google’s cloud database system BigQuery database format called the **_Georgetown-SDOH datawarehouse_**
 
-### Summary and tutorials
+### Summary 
 For more information about the Georgetown-SDOH data warehouse and tutorials see here: **[Georgetown-SDOH.md](https://github.com/ICBI/Data.Bridge.Notebooks/blob/main/Goal1_SDOH/README_About_GU_SDOH.md)**
+
+### SDOH Python Tutorials 
+* Tutorial 1: How to extract information from the Georgetown-SDOH Bigquery datawarehouse using python scripts https://github.com/ICBI/Data.Bridge.Notebooks/blob/main/Goal1_SDOH/Tutorial1_BigQueryPythonGuide.ipynb
+  
+* Tutorial 2: Accessing the Georgetown SDOH Bigquery Datawarehouse through an API https://github.com/ICBI/Data.Bridge.Notebooks/blob/main/Goal1_SDOH/Tutorial2_BigQueryAPI.ipynb
+
+### SDOH Workshops
+The Georgetown-ICBI Team will offer hands-on workshops to help users understand how to query SDOH data and make inferences using Tableau.
 
 ## Goal 2 - Synthetic datasets
 Georgetown-ICBI Provide synthetic versions of some data sets such as https://www.aim-ahead.net/data-and-research-core/aadbaccess/cardiometabolic-correlates- and-maternal-health-data/. More information on this coming soon..
