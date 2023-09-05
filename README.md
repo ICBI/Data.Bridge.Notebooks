@@ -10,11 +10,11 @@ To advance the science of reducing racial disparities and ensuring that AI/ML so
 ## Goal 1 - Setting up the Georgetown-SDOH datawarehouse
 
 ### Background and goals
-The Social Determinants of Health (SDoH) highlights environmental and non-medical factors, such as economic and social conditions, that influence the health status of an individual or a group; to help measure the health disparities across the nation, and better understand the factors affect health outcomes and risks. Social Determinants of Health data can be found mostly in Census Bureau databases and other public databases ===>> NEEDS CITATION
+The Social Determinants of Health (SDoH) highlights environmental and non-medical factors, such as economic and social conditions, that influence the health status of an individual or a group; to help measure the health disparities across the nation, and better understand the factors affect health outcomes and risks. Social Determinants of Health data can be found mostly in Census Bureau databases and other public databases (Add citation)
 
 As part of the AIM AHEAD Data bridge initiative, the Georgetown-ICBI Team has downloaded, formatted and stored many of these datasets in the Google’s cloud database system BigQuery database format called the **_Georgetown-SDOH datawarehouse_**
 
-### Summary 
+### Summary About the SDOH datawarehouse 
 For more information about the Georgetown-SDOH data warehouse and tutorials see here: **[Georgetown-SDOH.md](https://github.com/ICBI/Data.Bridge.Notebooks/blob/main/Goal1_SDOH/README_About_GU_SDOH.md)**
 
 ### SDOH Python Tutorials 
