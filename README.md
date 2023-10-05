@@ -14,10 +14,10 @@ The Social Determinants of Health (SDoH) highlights environmental and non-medica
 
 As part of the AIM AHEAD Data bridge initiative, the Georgetown-ICBI Team has downloaded, formatted and stored many of these datasets in the Google’s cloud database system BigQuery database format called the **_Georgetown-SDOH datawarehouse_**
 
-### Summary About the SDOH datawarehouse 
-For more information about the Georgetown-SDOH data warehouse and tutorials see here: **[Georgetown-SDOH.md](https://github.com/ICBI/Data.Bridge.Notebooks/blob/main/Goal1_SDOH/README_About_GU_SDOH.md)**
+### Summary of datasets used for SDOH
+Here is a summary of the datasets used for SDOH : **[Georgetown-SDOH.md] (https://github.com/ICBI/Data.Bridge.Notebooks/blob/main/Goal1_SDOH/README_About_GU_SDOH.md)**
 
-### SDOH Python Tutorials 
+#### SDOH Python Tutorials 
 * Tutorial 1: How to extract information from the Georgetown-SDOH Bigquery datawarehouse using python scripts https://github.com/ICBI/Data.Bridge.Notebooks/blob/main/Goal1_SDOH/Tutorial1_BigQueryPythonGuide.ipynb
   
 * Tutorial 2: Accessing the Georgetown SDOH Bigquery Datawarehouse through an API https://github.com/ICBI/Data.Bridge.Notebooks/blob/main/Goal1_SDOH/Tutorial2_BigQueryAPI.ipynb
@@ -28,6 +28,8 @@ The Georgetown-ICBI Team will offer hands-on workshops to help users understand 
 ## Goal 2 - Synthetic datasets
 Georgetown-ICBI Provide synthetic versions of some data sets such as https://www.aim-ahead.net/data-and-research-core/aadbaccess/cardiometabolic-correlates- and-maternal-health-data/. More information on this coming soon..
 
+## Information about curated datasets from ICBI here:
+https://github.com/ICBI/Data.Bridge.Notebooks/blob/main/README_CuratedDatasets.md
 <img src="https://github.com/ICBI/Data.Bridge.Notebooks/blob/main/HIDSLOGO.AA1.jpg" width="400" height="70">
 
 
