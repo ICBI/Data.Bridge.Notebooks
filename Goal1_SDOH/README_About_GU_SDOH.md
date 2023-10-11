@@ -1,7 +1,9 @@
 # Summary of the Georgetown-SDOH Datawarehouse
 
 ## What is it ?
-As part of the AIM AHEAD Data bridge initiative, the Georgetown-ICBI Team has downloaded, formatted and stored many of these datasets in the Google’s cloud based datawarehouse system BigQuery.
+The Social Determinants of Health (SDoH) highlights environmental and non-medical factors, such as economic and social conditions, that influence the health status of an individual or a group. With SDoH, we aim to measure health disparities across the nation and determine which factors affect health outcomes and risks. Social Determinants of Health data can be found mostly in Census Bureau databases and other public databases. 
+
+As part of the AIM AHEAD Data bridge initiative, the Georgetown-ICBI Team has downloaded, formatted and stored many of these datasets in the Google’s cloud database system BigQuery database format called the Georgetown-SDOH database 
 
 <img src="https://github.com/ICBI/Data.Bridge.Notebooks/blob/main/AAlogo1.jpg" width="300" height="250">
 
@@ -29,11 +31,7 @@ As part of the AIM AHEAD Data bridge initiative, the Georgetown-ICBI Team has do
 
 
 ## Data sources with a short description
-The Social Determinants of Health (SDoH) highlights environmental and non-medical factors, such as economic and social conditions, that influence the health status of an individual or a group. With SDoH, we aim to measure health disparities across the nation and determine which factors affect health outcomes and risks. Social Determinants of Health data can be found mostly in Census Bureau databases and other public databases. 
-
-As part of the AIM AHEAD Data bridge initiative, the Georgetown-ICBI Team has downloaded, formatted and stored many of these datasets in the Google’s cloud database system BigQuery database format called the Georgetown-SDOH database 
-
-Inside the Georgetown-SDOH database, we have a large variety of public statistical datasets related to health. The types of SDoH datasets in BigQuery are presented below.
+Inside the Georgetown-SDOH datawarehouse, we have a large variety of public statistical datasets related to health. The types of SDoH datasets in BigQuery are presented below.
 
 **“Low Food Access” dataset:** Low Food Access data comes from Open Data DC and is a part of the DC Government database. It details the low food access areas in DC that are estimated to be more than a 10-minute walk from the nearest full-service grocery store. The dataset has been merged with the Census poverty data to estimate the population of food insecurity in the area. In order to be considered as food insecure, the person must be below 185% of the federal poverty line in addition to living in a low food access area. This dataset contains area information along with poverty data from the nearest grocery store in the District of Columbia.   
 _BigQuery Database names:_ Low Food Access Areas 2018 (Area Type: Block Group)
