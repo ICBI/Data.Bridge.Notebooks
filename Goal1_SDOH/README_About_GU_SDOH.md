@@ -97,7 +97,7 @@ _(read-only access offered on a case-by-case basis to a limited audience with ex
 * Access using BigQuery APIs _(future)_
 
 ## Request access
-In order to request access to these databases, please email icbi@georgetown.edu
+In order to request access to these databases, please fill out this form: https://forms.gle/7sxy3osoF6oe8KmX7
 
 ## Tutorials for advanced users
 * Tutorial 1: How to extract information from the Georgetown-SDOH Bigquery datawarehouse using python scripts
