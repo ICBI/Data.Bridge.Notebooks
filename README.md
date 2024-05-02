@@ -19,8 +19,6 @@ Here is a summary of the datasets used for SDOH : **[Georgetown-SDOH.md](https:/
 
 #### SDOH Python Tutorials 
 * Tutorial 1: How to extract information from the Georgetown-SDOH Bigquery datawarehouse using python scripts https://github.com/ICBI/Data.Bridge.Notebooks/blob/main/Goal1_SDOH/Tutorial1_BigQueryPythonGuide.ipynb
-  
-* Tutorial 2: Accessing the Georgetown SDOH Bigquery Datawarehouse through an API https://github.com/ICBI/Data.Bridge.Notebooks/blob/main/Goal1_SDOH/Tutorial2_BigQueryAPI.ipynb
 
 ### SDOH Workshops
 The Georgetown-ICBI Team will offer hands-on workshops to help users understand how to query SDOH data and make inferences using Tableau. More information about the workshops will be provided via the AIM AHEAD Connect platform: https://connect.aim-ahead.net
