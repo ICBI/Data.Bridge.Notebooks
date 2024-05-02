@@ -28,8 +28,8 @@ The Georgetown-ICBI Team will offer hands-on workshops to help users understand 
 ## Goal 2 - Synthetic datasets
 Georgetown-ICBI Provide synthetic versions of some data sets such as 
 https://www.aim-ahead.net/data-and-research-core/aadbaccess/cardiometabolic-correlates-and-maternal-health-data/. 
-See: https://syndatabridge.georgetown.edu/synthetic-data-bridge
-![image](https://github.com/ICBI/Data.Bridge.Notebooks/assets/5798065/97d38f14-31b6-4d77-9599-246c2bcfc3b1)
+
+Please See:![image](https://github.com/ICBI/Data.Bridge.Notebooks/assets/5798065/97d38f14-31b6-4d77-9599-246c2bcfc3b1)
 
 ## Information about curated datasets from ICBI here:
 https://github.com/ICBI/Data.Bridge.Notebooks/blob/main/README_CuratedDatasets.md
