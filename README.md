@@ -26,8 +26,10 @@ Here is a summary of the datasets used for SDOH : **[Georgetown-SDOH.md](https:/
 The Georgetown-ICBI Team will offer hands-on workshops to help users understand how to query SDOH data and make inferences using Tableau. More information about the workshops will be provided via the AIM AHEAD Connect platform: https://connect.aim-ahead.net
 
 ## Goal 2 - Synthetic datasets
-Georgetown-ICBI Provide synthetic versions of some data sets such as https://www.aim-ahead.net/data-and-research-core/aadbaccess/cardiometabolic-correlates- and-maternal-health-data/. 
-More information on this coming soon..
+Georgetown-ICBI Provide synthetic versions of some data sets such as 
+https://www.aim-ahead.net/data-and-research-core/aadbaccess/cardiometabolic-correlates-and-maternal-health-data/. 
+See: https://syndatabridge.georgetown.edu/synthetic-data-bridge
+![image](https://github.com/ICBI/Data.Bridge.Notebooks/assets/5798065/97d38f14-31b6-4d77-9599-246c2bcfc3b1)
 
 ## Information about curated datasets from ICBI here:
 https://github.com/ICBI/Data.Bridge.Notebooks/blob/main/README_CuratedDatasets.md
