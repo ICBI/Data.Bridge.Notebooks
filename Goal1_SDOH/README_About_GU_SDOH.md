@@ -101,7 +101,9 @@ In order to request access to these databases, please fill out this form: https:
 ## Tutorials for advanced users
 * Tutorial 1: How to extract information from the Georgetown-SDOH Bigquery datawarehouse using python scripts
   https://github.com/ICBI/Data.Bridge.Notebooks/blob/main/Goal1_SDOH/Tutorial1_BigQueryPythonGuide.ipynb
-* Tutorial 2: Accessing the Georgetown SDOH Bigquery Datawarehouse through an API
-  https://github.com/ICBI/Data.Bridge.Notebooks/blob/main/Goal1_SDOH/Tutorial2_BigQueryAPI.ipynb
+
+<!--- * Tutorial 2: Accessing the Georgetown SDOH Bigquery Datawarehouse through an API 
+  https://github.com/ICBI/Data.Bridge.Notebooks/blob/main/Goal1_SDOH/Tutorial2_BigQueryAPI.ipynb -->
+  
 
 <img src="https://github.com/ICBI/Data.Bridge.Notebooks/blob/main/HIDSLOGO.AA1.jpg" width="400" height="70">
